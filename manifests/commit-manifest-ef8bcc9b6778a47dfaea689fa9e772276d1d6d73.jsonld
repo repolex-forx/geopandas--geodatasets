@@ -1,0 +1,51 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/geopandas/geodatasets/commit/ef8bcc9b6778a47dfaea689fa9e772276d1d6d73",
+  "@type": "git:Commit",
+  "git:hexsha": "ef8bcc9b6778a47dfaea689fa9e772276d1d6d73",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/geopandas/geodatasets"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/ef8bcc9b6778a47dfaea689fa9e772276d1d6d73.nq.gz",
+      "repolex:graphFileSize": 4967
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 9796
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 409
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 1321
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "issue",
+      "repolex:graphFilePath": "issue/issue.nq.gz",
+      "repolex:graphFileSize": 7859
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "pr",
+      "repolex:graphFilePath": "pr/pr.nq.gz",
+      "repolex:graphFileSize": 6832
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-15T21:33:03.649752+00:00",
+  "repolex:parserVersion": "0.1.10",
+  "git:tagName": "2026.5.1"
+}
