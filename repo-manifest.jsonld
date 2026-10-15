@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/geopandas/geodatasets/commit/ef8bcc9b6778a47dfaea689fa9e772276d1d6d73",
       "git:hexsha": "ef8bcc9b6778a47dfaea689fa9e772276d1d6d73",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "2026.5.1"
     },
     {
